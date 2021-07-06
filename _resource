@@ -1,0 +1,8 @@
+resource_manifest_version 'ae488379-351d-4a4f-ad32-2b9b01c91657'
+
+description ''
+
+version 'Terror.Design'
+-- Version Nicht Ändern (es wird trozdem gehen aber wenn update kommen bekommt ihr sie net angezeigt)
+
+client_script "discord.lua"
